@@ -1,0 +1,17 @@
+.megnevezes {
+    font-size: 25px;
+    margin: 15px 0px 15px 0px;
+    font-weight: bold;
+}
+ol {
+    font-size: 20px;
+}
+body {
+    margin: 50px 100px 50px 100px;
+}
+.helyzes {
+    margin-bottom: 6px;
+}
+.elso {
+    text-decoration: underline;
+}
